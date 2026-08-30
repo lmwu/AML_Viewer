@@ -1,0 +1,5 @@
+[env]
+GDAL_HOME= "C:/Users/sales/vcpkg/installed/x64-windows"
+GDAL_INCLUDE_DIR = "C:/Users/sales/vcpkg/installed/x64-windows/include"
+GDAL_LIB_DIR = "C:/Users/sales/vcpkg/installed/x64-windows/lib"
+PKG_CONFIG_PATH =  "C:/Users/sales/vcpkg/installed/x64-windows/lib/pkgconfig"
